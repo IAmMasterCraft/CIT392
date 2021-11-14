@@ -1,0 +1,25 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Hello",
+      "request": "launch",
+      "mainClass": "Hello",
+      "projectName": "392_5bd6a771"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "cwd": "/Users/mastercraft/Desktop/Projects/392/C",
+      "environment": [],
+      "program": "/Users/mastercraft/Desktop/Projects/392/C/build/Debug/outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "lldb",
+      "externalConsole": true
+    }
+  ]
+}
