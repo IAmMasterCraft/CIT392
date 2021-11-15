@@ -35,9 +35,9 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": true,
-      "cwd": "/Users/mastercraft/Desktop/Projects/392/CPP",
+      "cwd": "/Users/mastercraft/Desktop/Projects/392/C",
       "environment": [],
-      "program": "/Users/mastercraft/Desktop/Projects/392/CPP/build/Debug/outDebug",
+      "program": "/Users/mastercraft/Desktop/Projects/392/C/build/Debug/outDebug",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "lldb",
       "externalConsole": true
