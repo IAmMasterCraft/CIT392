@@ -13,7 +13,8 @@ float commodity[4][4];
 
 */
 
-#include <stdio.h>
+#include <iostream>
+using namespace std;
 
 void showCommodity()
 {
@@ -30,7 +31,7 @@ void showCommodity()
         for (int column = 0; column < 4; column++)
         {
             /* code */
-            printf("%f\n", commodity[row][column]);
+            cout << commodity[row][column] << "\n";
         }
     }
 }
